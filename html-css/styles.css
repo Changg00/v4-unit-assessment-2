@@ -1,3 +1,108 @@
+/* .html, .body {
+    margin: 0;
+    height: 100%;
+    min-height: 100%
+}
+
+.body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+} */
+
+
+.site-header {
+    height: 75px;
+    background-color: rgb(37, 37, 37);
+    width: 110%;
+    margin-top: -20px;
+    margin-left: -8px;
+    position: sticky;
+    
+}
+.site-header h1 {
+    color: rgb(42,171,226);
+    font-weight: 1000;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    font-family: 'Nunito', sans-serif;
+}
+.site-header h2 {
+    position: relative;
+    font-size: 15px;
+    padding-right: 0px;
+    margin-left: 900px;
+    word-spacing: 40px;
+    color: white;
+    right: 50px;
+    bottom: 15px;
+
+}
+
+.move {
+    position: relative;
+    right: -1070px;
+}
+.plz {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    right: -1100px;
+}
+
+
+.p {
+    float: right;
+    padding: 0pt;
+    box-shadow:rgb(37, 37, 37)
+}
+
+.thing {
+    width: 100px;
+    height: 100px;
+ margin-left: 20px;
+ position: relative;
+ left: 340px;
+}
+.thing1{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;;
+    right: -300px;
+}
+.div yo {
+    right: 50px;
+}
+
+
+.footer {
+    background-color: rgb(42, 171, 226);
+    width: 100%;
+    position: absolute;
+    bottom: 0 ;
+    right: 0;
+    height: 6.5%;
+    margin-top: auto;
+}
+
+.main right {
+    height: 20px;
+    width: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 /* 
 
 these are the colors used in the example
